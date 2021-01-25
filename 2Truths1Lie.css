@@ -1,0 +1,24 @@
+.one{
+    background-color: darkblue;
+    font-size: medium;
+    font-family:cursive;
+    color: white;
+}
+
+.two{
+    background-color: green;
+    font-size: medium;
+    font-family: Times New Roman;
+    color:  yellow;
+}
+
+.three{
+    background-color: orangered;
+    font-size: medium;
+    font-family: Arial;
+}
+
+.header{
+    text-align: center;
+}
+
